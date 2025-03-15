@@ -1,0 +1,16 @@
+{
+  "name": "memory-leak-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-memory-leak.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "pm2": "^5.4.3"
+  }
+}
